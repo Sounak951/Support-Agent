@@ -1,7 +1,7 @@
 (function () {
 
 
-    const api_Url = "https://localhost:3000"
+    const api_Url = "https://support-agent-pied.vercel.app/api/chat"
 
     const scriptTag = document.currentScript;
     const ownerId = scriptTag.getAttribute("data-owner-id")
